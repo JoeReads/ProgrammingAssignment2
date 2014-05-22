@@ -1,5 +1,5 @@
-## These functions create a special matirx that can be cached and retrieved to lower computatiional "overhead"
-## The first vreates the special matrix and the second computes the inverse of the matrix or retrieves the cached value
+## These functions create a special matrix that can be cached and retrieved to lower computational "overhead"
+## The first creates the special matrix and the second computes the inverse of the matrix or retrieves the cached value
 
 
 ## This function creates a special "matrix" object that can cache its inverse
